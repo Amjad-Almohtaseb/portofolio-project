@@ -55,15 +55,15 @@ h2 {
 }
 
 #myBtn:hover {
-  background-color: #555; /* Add a dark-grey background on hover */
+  background-color: #f35e07; /* Add a dark-grey background on hover */
 }
 .footer {
   left: 0;
   bottom: 0;
   width: 100%;
-  text-shadow: 5px 5px 20px #f35e07;
+  text-shadow: 5px 5px 20px #122e4a;
   font-size: 20px;
 
-  color: #122e4a;
+  color: #f35e07;
   text-align: center;
 }
